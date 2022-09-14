@@ -1,7 +1,7 @@
 ### <div align="center">  👋 Hi there 👋
 
   <div align="center"> 
-  Jinwon Kim / Computer vision Engineer, MLops Engineer
+  Jinwon Kim, Computer vision Engineer, MLops Engineer
   <br/><br/><br/>
   Skills
   <br/>
