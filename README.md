@@ -1,7 +1,7 @@
-<div align="center">### 👋 Hi there 👋
-Jinwon Kim / Machine learning Engineer, MLops Engineer
+<div align="center"> ### 👋 Hi there 👋
 
-Skills
+  Jinwon Kim / Machine learning Engineer, MLops Engineer
+  Skills
 <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=appveyor&logo=python&logoColor=green"/>
 
 
