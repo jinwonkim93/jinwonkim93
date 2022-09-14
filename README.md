@@ -4,7 +4,7 @@
   Jinwon Kim / Machine learning Engineer, MLops Engineer
   <br/><br/><br/><br/>
   Skills
-  <br/> 
+  <br/><br/>
   <img src="https://img.shields.io/badge/python-green?style=flat&logo=Python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/PyTorch-blue?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/OpenCV-red?style=flat&logo=OpenCV&logoColor=5C3EE8"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Docker-green?style=flat&logo=Docker&logoColor=#2496ED"/>
   <br/><br/>
 Contributed repos: [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-
+<br/><br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)</div>
 
 <!--
