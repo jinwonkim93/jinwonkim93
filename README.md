@@ -1,6 +1,6 @@
 ### <div align="center">  👋 Hi there 👋
 
-  
+  <div align="center"> 
   Jinwon Kim / Machine learning Engineer, MLops Engineer
  
   Skills
