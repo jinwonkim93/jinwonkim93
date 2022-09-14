@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Contributed repos: [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=tokyonight)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)
 
 <!--
 **jinwonkim93/jinwonkim93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
