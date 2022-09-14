@@ -4,11 +4,11 @@
   Jinwon Kim / Machine learning Engineer, MLops Engineer
  
   Skills
-  #
+  <br/> 
   <img src="https://img.shields.io/badge/python-green?style=flat&logo=Python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/PyTorch-blue?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/OpenCV-red?style=flat&logo=OpenCV&logoColor=5C3EE8"/>
-  #
+  <br/> 
   <img src="https://img.shields.io/badge/Argo-green?style=flat&logo=Argo&logoColor=EF7B4D"/>
   <img src="https://img.shields.io/badge/Kubernetes-green?style=flat&logo=Kubernetes&logoColor=326CE5"/>
   <img src="https://img.shields.io/badge/Docker-green?style=flat&logo=Docker&logoColor=#2496ED"/>
