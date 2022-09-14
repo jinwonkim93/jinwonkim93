@@ -5,7 +5,8 @@
  
   Skills
   
-<img src="https://img.shields.io/badge/python-green?style=plastic&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/python-green?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PyTorch-red?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
 
 
 
