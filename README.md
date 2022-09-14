@@ -1,8 +1,13 @@
-### Hi there 👋
+<div align="center">### 👋 Hi there 👋
+Jinwon Kim / Machine learning Engineer, MLops Engineer
+
+Skills
+<img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=appveyor&logo=python&logoColor=green"/>
+
 
 Contributed repos: [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)</div>
 
 <!--
 **jinwonkim93/jinwonkim93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
