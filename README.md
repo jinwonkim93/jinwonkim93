@@ -4,7 +4,8 @@
   Jinwon Kim / Machine learning Engineer, MLops Engineer
  
   Skills
-<img src="https://img.shields.io/badge/Python-green?style=plastic&logo=appveyor&logo=Python&logoColor=3776AB"/>
+  
+<img src="https://img.shields.io/badge/python-green?style=plastic&logo=Python&logoColor=3776AB"/>
 
 
 
