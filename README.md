@@ -2,7 +2,7 @@
 
   <div align="center"> 
   Jinwon Kim, Computer vision Engineer, MLops Engineer
-  <br/><br/><br/>
+  <br/><br/>
 
 Contributed repos: [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
 <br/><br/>
