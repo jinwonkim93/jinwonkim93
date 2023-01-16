@@ -1,7 +1,9 @@
 ### <div align="center">  👋 Hi there 👋
 
   <div align="center"> 
-  Jinwon Kim, Computer vision Engineer, MLops Engineer
+  Jinwon Kim, Computer vision Engineer and MLops Engineer.
+   
+  Interested in Generative model, Distributed System.
   <br/><br/>
 
 Contributed repos: [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
