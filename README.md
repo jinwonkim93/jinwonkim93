@@ -13,7 +13,9 @@ Contributed repos: <br/>
    [oslo](https://github.com/EleutherAI/oslo) <br/>
 </div>  
 
-  <div>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)</div>
+  <div>
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)
+  </div>
 
 <!--
 **jinwonkim93/jinwonkim93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
