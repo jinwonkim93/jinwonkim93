@@ -13,8 +13,10 @@ Contributed repos: <br/>
    [oslo](https://github.com/EleutherAI/oslo) <br/>
 </div>  
 
-  <div>
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)
+<div>
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)
+
   </div>
 
 <!--
