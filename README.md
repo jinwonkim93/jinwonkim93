@@ -8,11 +8,11 @@
   <br/><br/>
 
 Contributed repos: 
-   [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-    - https://github.com/open-mmlab/mmsegmentation/pull/1849
-    - https://github.com/open-mmlab/mmsegmentation/pull/2194
-   [oslo]([url](https://github.com/EleutherAI/oslo))
-    - https://github.com/EleutherAI/oslo/pull/137
+   [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) <br/>
+    - https://github.com/open-mmlab/mmsegmentation/pull/1849 <br/>
+    - https://github.com/open-mmlab/mmsegmentation/pull/2194 <br/>
+   [oslo]([url](https://github.com/EleutherAI/oslo)) <br/>
+    - https://github.com/EleutherAI/oslo/pull/137 <br/>
 <br/><br/>
     
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)</div>
