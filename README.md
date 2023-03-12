@@ -10,9 +10,9 @@
 <div>
 Contributed repos: <br/>
   
-   [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) 
+   - [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) 
   <br/>
-   [oslo](https://github.com/EleutherAI/oslo) 
+   - [oslo](https://github.com/EleutherAI/oslo) 
   <br/>
 
   </div>  
