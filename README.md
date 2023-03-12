@@ -7,7 +7,7 @@
     
   <br/><br/>
 
-Contributed repos: 
+Contributed repos: <br/>
    [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) <br/>
     - https://github.com/open-mmlab/mmsegmentation/pull/1849 <br/>
     - https://github.com/open-mmlab/mmsegmentation/pull/2194 <br/>
