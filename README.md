@@ -1,14 +1,16 @@
-### <div align="left">  👋 Hi there 👋
+### <div align="left">  Hi there 👋
 
   
   <div>
-  ML Engineer.
+ ###  ML Engineer
+    
+  - 🔭 I’m currently working on [oslo](http://oslo.eleuther.ai/index.html) Distributed Data Parallel
   
-  🔭 I’m currently working on [oslo](http://oslo.eleuther.ai/index.html) Distributed Data Parallel
   </div>  
 
 <div>
-Contributed repos: <br/>
+
+  # Contributed repos: <br/>
   
    - [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
    - [oslo](https://github.com/EleutherAI/oslo) 
