@@ -4,15 +4,16 @@
   <div>
   ML Engineer.
   
-  Developing [oslo](http://oslo.eleuther.ai/index.html)
+  🔭 I’m currently working on [oslo](http://oslo.eleuther.ai/index.html)
   </div>  
 
+<div>
 Contributed repos: <br/>
    [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) <br/>
-   [oslo]([url](https://github.com/EleutherAI/oslo)) <br/>
-<br/><br/>
-    
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)</div>
+   [oslo](https://github.com/EleutherAI/oslo) <br/>
+</div>  
+
+  <div>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinwonkim93&show_icons=true&theme=material-palenight)</div>
 
 <!--
 **jinwonkim93/jinwonkim93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
