@@ -4,7 +4,7 @@
   <div>
     
  #  ML Engineer   
-  - 🔭 I’m currently working on project [oslo](http://oslo.eleuther.ai/index.html), mainly on distributed data parallel
+  - 🔭 I’m currently working on project [oslo](http://oslo.eleuther.ai/index.html), mainly implementing distributed data parallel
   
   </div>  
 
