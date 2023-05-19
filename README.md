@@ -13,7 +13,10 @@
   # Contributed repos: <br/>
   
    - [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-   - [oslo](https://github.com/EleutherAI/oslo) 
+   - [oslo](https://github.com/EleutherAI/oslo)
+   - [controlnet_aux](https://github.com/patrickvonplaten/controlnet_aux)
+  
+
   <br/>
 
   </div>  
