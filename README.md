@@ -4,7 +4,7 @@
   <div>
     
  #  ML Engineer   
-  - 🔭 I’m currently working on project [oslo](http://oslo.eleuther.ai/index.html), mainly implementing distributed data parallel
+  - 🔭 I’m currently working on project [oslo](http://oslo.eleuther.ai/index.html), mainly implementing distributed data parallel, pipeline parallel
   
   </div>  
 
@@ -14,7 +14,15 @@
   
    - [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
    - [oslo](https://github.com/EleutherAI/oslo)
+     - [Distributed Data Parallel](https://github.com/EleutherAI/oslo/pull/137)
+     - [Tutorials for DDP, Zero](https://github.com/EleutherAI/oslo/pull/170) 
    - [controlnet_aux](https://github.com/patrickvonplaten/controlnet_aux)
+     - [canny, midas]([https://github.com/patrickvonplaten/controlnet_aux](https://github.com/patrickvonplaten/controlnet_aux/pull/1))  
+     - [mediapipe face](https://github.com/patrickvonplaten/controlnet_aux/pull/29)
+     - [SAM](https://github.com/patrickvonplaten/controlnet_aux/pull/40)
+     - [mobileSAM](https://github.com/patrickvonplaten/controlnet_aux/pull/63)
+   - [diffusers](https://github.com/huggingface/diffusers)
+     - [Support different strength for Stable Diffusion TensorRT inpainting](https://github.com/huggingface/diffusers/pull/4216) 
   
 
   <br/>
