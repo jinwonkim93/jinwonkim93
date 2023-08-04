@@ -13,6 +13,8 @@
   # Contributed repos: <br/>
   
    - [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+     - [Support Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets](https://github.com/open-mmlab/mmsegmentation/pull/2194)
+     - [Fix mmseg.api.inference inference_segmentor](https://github.com/open-mmlab/mmsegmentation/pull/1849)
    - [oslo](https://github.com/EleutherAI/oslo)
      - [Distributed Data Parallel](https://github.com/EleutherAI/oslo/pull/137)
      - [Tutorials for DDP, Zero](https://github.com/EleutherAI/oslo/pull/170) 
