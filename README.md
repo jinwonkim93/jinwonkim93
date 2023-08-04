@@ -17,7 +17,7 @@
      - [Distributed Data Parallel](https://github.com/EleutherAI/oslo/pull/137)
      - [Tutorials for DDP, Zero](https://github.com/EleutherAI/oslo/pull/170) 
    - [controlnet_aux](https://github.com/patrickvonplaten/controlnet_aux)
-     - [canny, midas]([https://github.com/patrickvonplaten/controlnet_aux](https://github.com/patrickvonplaten/controlnet_aux/pull/1))  
+     - [canny, midas](https://github.com/patrickvonplaten/controlnet_aux/pull/1)
      - [mediapipe face](https://github.com/patrickvonplaten/controlnet_aux/pull/29)
      - [SAM](https://github.com/patrickvonplaten/controlnet_aux/pull/40)
      - [mobileSAM](https://github.com/patrickvonplaten/controlnet_aux/pull/63)
