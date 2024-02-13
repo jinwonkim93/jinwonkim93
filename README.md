@@ -26,7 +26,7 @@
      - [Support different strength for Stable Diffusion TensorRT inpainting](https://github.com/huggingface/diffusers/pull/4216) 
    - [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
      - [streaming multipack for pretraining dataset](https://github.com/OpenAccess-AI-Collective/axolotl/pull/959) 
-
+     - [Scheduler implementation of Continual Pre-Training of Large Language Models: How to (re)warm your model?](https://github.com/OpenAccess-AI-Collective/axolotl/pull/1273) 
   <br/>
 
   </div>  
