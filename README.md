@@ -4,9 +4,8 @@
   <div>
     
  #  AI Research Engineer
- - Visual Dubbing
- - Machine Translation
- - Prosodic Alignment
+ - Automatic Dubbing (Visual Dubbing, Machine Translation, Prosodic Alignment)
+ - Contrastive learning
   
   </div>  
 
