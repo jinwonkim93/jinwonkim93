@@ -3,7 +3,10 @@
   
   <div>
     
- #  ML Engineer   
+ #  AI Research Engineer
+ - Visual Dubbing
+ - Machine Translation
+ - Prosodic Alignment
   
   </div>  
 
