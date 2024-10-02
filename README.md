@@ -4,7 +4,7 @@
   <div>
     
  #  AI Research Engineer
- - Automatic Dubbing (Visual Dubbing, Machine Translation, Prosodic Alignment)
+ - Automatic Dubbing
  - Contrastive learning
   
   </div>  
