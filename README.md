@@ -4,9 +4,10 @@
   <div>
     
  #  AI Research Engineer
+ Research Areas
  - Automatic Dubbing
- - Contrastive learning
- - TTS
+ - Lip Synchronization
+ - Text To Speech
   
   </div>  
 
