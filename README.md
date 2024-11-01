@@ -6,6 +6,7 @@
  #  AI Research Engineer
  - Automatic Dubbing
  - Contrastive learning
+ - TTS
   
   </div>  
 
