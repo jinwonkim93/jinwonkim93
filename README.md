@@ -7,7 +7,8 @@
  Research Areas
  - Automatic Dubbing
  - Lip Synchronization
- - Text To Speech
+ - Multimodal Large Language Models
+   - Neural Codec Language model base text to speech
   
   </div>  
 
