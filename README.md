@@ -5,10 +5,8 @@
     
  #  AI Research Engineer
  Research Areas
- - Automatic Dubbing
- - Lip Synchronization
- - Multimodal Large Language Models
-   - Neural Codec Language model base text to speech
+ - Automatic Dubbing (visual dubbing, machine translation, text to speech)
+ 
   
   </div>  
 
