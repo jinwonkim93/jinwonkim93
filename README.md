@@ -5,11 +5,13 @@
  #  [2025.04 ~ present] Language AI Researcher @ HMG, Hyundai Autoever
  Research Areas
  - Chatbot System
+  </div>
+ <div>
  #  [2019.11 ~ 2025.04] AI Research Engineer @ ESTsoft corp.
  Research Areas
  - Automatic Dubbing (visual dubbing, machine translation, text to speech)
- 
-  </div>  
+  </div>
+
 
 <div>
 
