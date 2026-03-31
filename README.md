@@ -6,6 +6,7 @@
  ##  [2025.04 ~ present] Language AI Researcher @ HMG, Hyundai Autoever
  Research Areas
  - Chatbot System
+ - Post Training
 </div>
 
 <div>
